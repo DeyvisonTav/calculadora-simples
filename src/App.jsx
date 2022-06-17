@@ -13,8 +13,8 @@ import { useState } from "react";
 
 export function App(){
   return  (
-    <div className="flex flex-center justify-center items-center w-screen h-screen">
-   <div className="w-96 p-6 bg-zinc-900 rounded-xl">
+    <div className="flex flex-center justify-center items-center w-screen h-screen bg-slate-100">
+   <div className="w-96 p-6 bg-black rounded-3xl shadow-2xl shadow-black">
       
        
     <div className="h-32">
